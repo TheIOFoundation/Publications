@@ -5,7 +5,6 @@
 ## IN THE WORKS
 
 * [A penny for your bytes](in-the-works/a-penny-for-your-bytes/README.md)
-  * [A Penny for your bytes - Part I About Data-Centric Digital Rights](in-the-works/a-penny-for-your-bytes/a-penny-for-your-bytes-part-i-about-data-centric-digital-rights.md)
   * [A Penny for your bytes - Part II The nature of data](in-the-works/a-penny-for-your-bytes/a-penny-for-your-bytes-part-ii-the-nature-of-data.md)
   * [A Penny for your bytes - Part III NextGen Rights Defenders](in-the-works/a-penny-for-your-bytes/a-penny-for-your-bytes-part-iii-nextgen-rights-defenders.md)
   * [A Penny for your bytes - Part VI DCDR Principles](in-the-works/a-penny-for-your-bytes/a-penny-for-your-bytes-part-vi-dcdr-principles.md)
@@ -100,3 +99,8 @@
 * [Templates](in-the-works/templates.md)
 * [test](in-the-works/test.md)
 * [Copy of Templates](in-the-works/copy-of-templates.md)
+
+## A Penny for your bytes
+
+* [About](a-penny-for-your-bytes/about.md)
+* [About Data-Centric Digital Rights](a-penny-for-your-bytes/about-data-centric-digital-rights.md)

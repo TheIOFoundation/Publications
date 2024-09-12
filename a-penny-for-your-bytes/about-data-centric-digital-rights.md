@@ -1,4 +1,8 @@
-# A Penny for your bytes - Part I About Data-Centric Digital Rights
+---
+description: A penny for your bytes - Part I
+---
+
+# About Data-Centric Digital Rights
 
 > _A new car built by my company leaves somewhere traveling at 60 mph. The rear differential locks up. The car crashes and burns with everyone trapped inside. Now, should we initiate a recall? Take the number of vehicles in the field, A, multiply by the probable rate of failure, B, multiply by the average out-of-court settlement, C. A times B times C equals X. If X is less than the cost of a recall, we don't do one._
 >
