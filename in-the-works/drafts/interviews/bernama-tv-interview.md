@@ -1,2 +1,0 @@
-# Bernama TV interview
-

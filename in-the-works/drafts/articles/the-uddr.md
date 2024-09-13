@@ -1,3 +1,0 @@
-# The UDDR
-
-General info.

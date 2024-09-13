@@ -1,2 +1,0 @@
-# Malaysia Policy Analysis
-

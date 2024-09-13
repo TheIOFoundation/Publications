@@ -1,2 +1,0 @@
-# Tarian Tales TT7
-

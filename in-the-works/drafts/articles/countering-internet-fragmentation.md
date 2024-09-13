@@ -1,2 +1,0 @@
-# Countering Internet Fragmentation
-
