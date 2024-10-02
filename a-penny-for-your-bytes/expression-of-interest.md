@@ -4,7 +4,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -17,9 +17,7 @@ layout:
     visible: false
 ---
 
-# GNI
-
-## Expression of Interest
+# Expression of Interest
 
 ## Abstract
 
