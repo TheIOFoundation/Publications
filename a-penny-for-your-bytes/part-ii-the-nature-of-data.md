@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/h-heyerlein-t7-hqrujXsg-unsplash.png
+coverY: 0
+---
+
 # Part II - The nature of data
 
 > _If you don't ask the right questions, I can't give you the answers and if you don't know the right question to ask, you're not ready for the answers._
