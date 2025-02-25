@@ -11,8 +11,6 @@ It was also published in MCMC’s myConvergence - Issue 19 (page 40).\
 It is here republished with updated materials and minor corrections.
 {% endhint %}
 
-
-
 ### Booting up the system <a href="#a8c86861-3aa5-45cb-a91c-7577ffb57def" id="a8c86861-3aa5-45cb-a91c-7577ffb57def"></a>
 
 Personal data and Privacy are the subject of heated debates in international fora, along with concepts such as Data Governance1 or Ethics in AI2. These conversations typically explore the policies and legal ramifications of data management as well as cross-border data transfers and related free trade agreements. Data is not the new oil; data is, quite literally, everything by now.
@@ -177,7 +175,7 @@ TIOF aims to provide platforms to raise awareness on Digital Rights as well as e
 \
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://theiofoundation.org">The IO Foundation</a> (TIOF) is a global nonprofit advocating for Data-Centric Digital Rights, born out of a fundamental concern on the future of digital communities, both in their governance and implementation. TIOF aims to provide platforms to raise awareness on Digital Rights as well as effective solutions to ensure that they are adequately observed. For more information, please visit <a href="https://theiofoundation.org">www.TheIOFoundation.org</a> and reach out via <a href="mailto:Contact@TheIOFoundation.org">Contact@TheIOFoundation.org</a>.</td><td><a href="../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C NT HiRes ENG v1.6.png">[TIOF] Comms [P] TIOF Full Logo C NT HiRes ENG v1.6.png</a></td></tr></tbody></table>
+{% include "../.gitbook/includes/byline-jfq.md" %}
 
 {% hint style="info" %}
 
