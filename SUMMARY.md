@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The IO Foundation's blog](README.md)
+* [The IO Foundation's Publications](README.md)
 * [The IO Foundation](the-io-foundation/README.md)
   * [What's in a name?](the-io-foundation/whats-in-a-name.md)
 * [Data-Centric Digital Rights](data-centric-digital-rights/README.md)
@@ -13,3 +13,7 @@
   * [Part V - Ditching Ethics, embracing Rights](a-penny-for-your-bytes/part-v-ditching-ethics-embracing-rights.md)
   * [Part VI - Shaping tomorrow, today.](a-penny-for-your-bytes/part-vi-shaping-tomorrow-today..md)
   * [Part VII - The impending CS crisis](a-penny-for-your-bytes/part-vii-the-impending-cs-crisis.md)
+* [Policy](policy/README.md)
+  * [🇲🇾 Statement - Indo-Pacific Economic Framework (IPEF)'s Stakeholders Listening Session](policy/statement-indo-pacific-economic-framework-ipef-s-stakeholders-listening-session.md)
+  * [🇲🇾 Digital Rights Protection in the Malaysian Regulatory Landscape: Leveraging the UNGP BHR for a Natio](policy/digital-rights-protection-in-the-malaysian-regulatory-landscape-leveraging-the-ungp-bhr-for-a-natio.md)
+  * [🇲🇾 Public Consultation: PDPA | 2020](policy/public-consultation-pdpa-or-2020.md)
