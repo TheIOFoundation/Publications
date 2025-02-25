@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/stillness-inmotion-Gq3i2dnLGik-unsplash.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Part III - NextGen Rights Defenders
 
 > _I swear to fulfill, to the best of my ability and judgment, this covenant:_
