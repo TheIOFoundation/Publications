@@ -70,10 +70,6 @@ A parting thought: _Information is power_ and we currently do not control in eff
 
 Better understanding the nature of data allows us now to dive into who should be taking care of what in the next episode.
 
-```
-<HR>
-```
 
-***
 
-_Jean F. Quéralt founded The IO Foundation in 2018 as an organization dedicated to promote, protect and provide solutions for Digital Rights._
+{% include "../.gitbook/includes/byline-jfq.md" %}

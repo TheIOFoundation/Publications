@@ -60,3 +60,8 @@ In the following articles we’ll be exploring some of the key elements of DCDR,
 Because we all agreed that we seek better and safer tech.
 
 Didn’t we?
+
+
+
+{% include "../.gitbook/includes/byline-jfq.md" %}
+

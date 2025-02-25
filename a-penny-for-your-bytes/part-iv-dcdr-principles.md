@@ -76,3 +76,8 @@ Fancy this version? How would you improve it?
 ### So what’s next? <a href="#id-40f3157f-751e-4207-ad79-9b56b7c38a29" id="id-40f3157f-751e-4207-ad79-9b56b7c38a29"></a>
 
 The next step in making sure that tech paradigms worldwide are aligned is ensuring that they all follow the same goal. Easy to say yet hard to achieve since everyone seems hell bent on this near-magic word of “Ethics” that simply means different things for different people. Let’s see if we can find an alternative to that conundrum.
+
+
+
+{% include "../.gitbook/includes/byline-jfq.md" %}
+

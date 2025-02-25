@@ -65,3 +65,8 @@ It is no surprise that at The IO Foundation we regard programmers as the NextGen
 ### So what’s next? <a href="#d3c04538-73b6-47f3-b7b2-5b2bec2235f8" id="d3c04538-73b6-47f3-b7b2-5b2bec2235f8"></a>
 
 In the next episode we’ll dive on TIOF’s DCDR Principles and how developers can start changing their daily paradigm and embrace their role as NextGen Rights Defenders to build technology that is protective by design.
+
+
+
+{% include "../.gitbook/includes/byline-jfq.md" %}
+

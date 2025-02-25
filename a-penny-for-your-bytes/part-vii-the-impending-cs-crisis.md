@@ -111,3 +111,8 @@ The upside is that we may finally know if we would [dream of electric sheep](htt
 ### So what’s next? <a href="#id-352bd800-9960-4931-acb5-4d28c0f17010" id="id-352bd800-9960-4931-acb5-4d28c0f17010"></a>
 
 In our last installment of this series, we will try to consider what living in the future may look like. Yeah, those “smart” cities.
+
+
+
+{% include "../.gitbook/includes/byline-jfq.md" %}
+

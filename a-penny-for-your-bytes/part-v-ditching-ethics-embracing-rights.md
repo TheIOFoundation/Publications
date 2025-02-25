@@ -84,3 +84,8 @@ _“Do we have good examples of technologists taking a side?”_, you may ask. T
 In the next episode we’ll have a peek at how Rights could be implemented and what would be the different stakeholders and flow of it all.
 
 The best part? You’ve already been doing it… only not for technology.
+
+
+
+{% include "../.gitbook/includes/byline-jfq.md" %}
+

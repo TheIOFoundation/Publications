@@ -83,3 +83,8 @@ Change is possible and it happens because we decide to. Ask Charlie Skinner.
 ### So what’s next? <a href="#e5fe0fb6-d95b-4b0c-b9b0-1b3ea38fa62a" id="e5fe0fb6-d95b-4b0c-b9b0-1b3ea38fa62a"></a>
 
 In the next chapter we’ll be having a look at one of the main frictions for the UDHR to be possible. Corporate interests? Sure those too… and yet the main friction is Civil Society itself.
+
+
+
+{% include "../.gitbook/includes/byline-jfq.md" %}
+
