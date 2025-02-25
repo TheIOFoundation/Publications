@@ -1,6 +1,8 @@
 # Table of contents
 
 * [The IO Foundation's blog](README.md)
+* [The IO Foundation](the-io-foundation/README.md)
+  * [What's in a name?](the-io-foundation/whats-in-a-name.md)
 * [Data-Centric Digital Rights](data-centric-digital-rights/README.md)
   * [Let's talk Data-Centric Digital Rights](data-centric-digital-rights/lets-talk-data-centric-digital-rights.md)
 * [A penny for your bytes](a-penny-for-your-bytes/README.md)
