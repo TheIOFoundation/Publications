@@ -1,10 +1,10 @@
 ---
-cover: ../.gitbook/assets/qcl5azx4tj0e.jpeg
-coverY: 0
+cover: ../.gitbook/assets/jens-johnsson-685540-unsplash.png
+coverY: 83.11999999999993
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
