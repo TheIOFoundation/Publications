@@ -13,8 +13,3 @@
   * [Part V - Ditching Ethics, embracing Rights](a-penny-for-your-bytes/part-v-ditching-ethics-embracing-rights.md)
   * [Part VI - Shaping tomorrow, today.](a-penny-for-your-bytes/part-vi-shaping-tomorrow-today..md)
   * [Part VII - The impending CS crisis](a-penny-for-your-bytes/part-vii-the-impending-cs-crisis.md)
-
-## A Penny for your bytes
-
-* [About](a-penny-for-your-bytes-1/about.md)
-* [About Data-Centric Digital Rights](a-penny-for-your-bytes-1/about-data-centric-digital-rights.md)

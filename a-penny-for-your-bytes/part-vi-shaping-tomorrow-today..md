@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/bert-brrr-rhNff6hB41s-unsplash.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Part VI - Shaping tomorrow, today.
 
 > _If you tried to pass the UDHR today, no way it would get approved._

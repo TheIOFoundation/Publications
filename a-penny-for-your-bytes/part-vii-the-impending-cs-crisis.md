@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/jose-martin-ramirez-carrasco-45sjAjSjArQ-unsplash.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Part VII - The impending CS crisis
 
 > _We try to avoid policy and business questions, as much as possible._

@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/tim-graf-ErO0E8wZaTA-unsplash.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Part IV - DCDR Principles
 
 > _Those are my principles, and if you don't like them... well, I have others._

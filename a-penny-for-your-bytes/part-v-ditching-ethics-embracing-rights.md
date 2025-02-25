@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/markus-spiske-XXWM_8f77KQ-unsplash.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Part V - Ditching Ethics, embracing Rights
 
 > _The world –_ in _general – is multicultural, it’s full of wars and destruction, so it wouldn’t be wise to import all of this into our societies._
