@@ -1,3 +1,7 @@
+---
+icon: newspaper
+---
+
 # The IO Foundation's Publications
 
 {% hint style="warning" %}
