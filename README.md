@@ -1,5 +1,21 @@
 ---
 icon: newspaper
+cover: .gitbook/assets/[TIOF] Comms [P] Publications Site Header ENG v1.0.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # The IO Foundation's Publications
