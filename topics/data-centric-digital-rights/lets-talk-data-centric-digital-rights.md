@@ -175,7 +175,7 @@ TIOF aims to provide platforms to raise awareness on Digital Rights as well as e
 \
 
 
-{% include "../.gitbook/includes/byline-jfq.md" %}
+{% include "../../.gitbook/includes/byline-jfq.md" %}
 
 {% hint style="info" %}
 

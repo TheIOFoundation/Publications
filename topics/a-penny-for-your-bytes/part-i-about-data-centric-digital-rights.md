@@ -1,20 +1,6 @@
 ---
-cover: ../.gitbook/assets/jens-johnsson-685540-unsplash.png
+cover: ../../.gitbook/assets/jens-johnsson-685540-unsplash.png
 coverY: 83.11999999999993
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Part I - About Data-Centric Digital Rights
@@ -63,5 +49,5 @@ Didn’t we?
 
 
 
-{% include "../.gitbook/includes/byline-jfq.md" %}
+{% include "../../.gitbook/includes/byline-jfq.md" %}
 

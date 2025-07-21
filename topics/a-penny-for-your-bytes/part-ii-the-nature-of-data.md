@@ -1,20 +1,6 @@
 ---
-cover: ../.gitbook/assets/h-heyerlein-t7-hqrujXsg-unsplash.png
+cover: ../../.gitbook/assets/h-heyerlein-t7-hqrujXsg-unsplash.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Part II - The nature of data
@@ -72,4 +58,4 @@ Better understanding the nature of data allows us now to dive into who should be
 
 
 
-{% include "../.gitbook/includes/byline-jfq.md" %}
+{% include "../../.gitbook/includes/byline-jfq.md" %}

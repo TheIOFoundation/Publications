@@ -1,20 +1,6 @@
 ---
-cover: ../.gitbook/assets/stillness-inmotion-Gq3i2dnLGik-unsplash.png
+cover: ../../.gitbook/assets/stillness-inmotion-Gq3i2dnLGik-unsplash.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Part III - NextGen Rights Defenders
@@ -68,5 +54,5 @@ In the next episode we’ll dive on TIOF’s DCDR Principles and how developers 
 
 
 
-{% include "../.gitbook/includes/byline-jfq.md" %}
+{% include "../../.gitbook/includes/byline-jfq.md" %}
 

@@ -1,20 +1,6 @@
 ---
-cover: ../.gitbook/assets/tim-graf-ErO0E8wZaTA-unsplash.png
+cover: ../../.gitbook/assets/tim-graf-ErO0E8wZaTA-unsplash.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Part IV - DCDR Principles
@@ -79,5 +65,5 @@ The next step in making sure that tech paradigms worldwide are aligned is ensuri
 
 
 
-{% include "../.gitbook/includes/byline-jfq.md" %}
+{% include "../../.gitbook/includes/byline-jfq.md" %}
 

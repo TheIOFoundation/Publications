@@ -1,20 +1,6 @@
 ---
-cover: ../.gitbook/assets/bert-brrr-rhNff6hB41s-unsplash.png
+cover: ../../.gitbook/assets/bert-brrr-rhNff6hB41s-unsplash.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Part VI - Shaping tomorrow, today.
@@ -86,5 +72,5 @@ In the next chapter we’ll be having a look at one of the main frictions for th
 
 
 
-{% include "../.gitbook/includes/byline-jfq.md" %}
+{% include "../../.gitbook/includes/byline-jfq.md" %}
 

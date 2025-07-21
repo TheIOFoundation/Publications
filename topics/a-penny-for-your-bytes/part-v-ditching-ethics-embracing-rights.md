@@ -1,20 +1,6 @@
 ---
-cover: ../.gitbook/assets/markus-spiske-XXWM_8f77KQ-unsplash.png
+cover: ../../.gitbook/assets/markus-spiske-XXWM_8f77KQ-unsplash.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Part V - Ditching Ethics, embracing Rights
@@ -87,5 +73,5 @@ The best part? You’ve already been doing it… only not for technology.
 
 
 
-{% include "../.gitbook/includes/byline-jfq.md" %}
+{% include "../../.gitbook/includes/byline-jfq.md" %}
 
