@@ -23,3 +23,8 @@
   * [🇲🇾 Statement - Indo-Pacific Economic Framework (IPEF)'s Stakeholders Listening Session](topics/policy/statement-indo-pacific-economic-framework-ipef-s-stakeholders-listening-session.md)
   * [🇲🇾 Digital Rights Protection in the Malaysian Regulatory Landscape: Leveraging the UNGP BHR for a Natio](topics/policy/digital-rights-protection-in-the-malaysian-regulatory-landscape-leveraging-the-ungp-bhr-for-a-natio.md)
   * [🇲🇾 Public Consultation: PDPA | 2020](topics/policy/public-consultation-pdpa-or-2020.md)
+
+## TechUp Cast
+
+* [ProtocolWatch](techup-cast/protocolwatch.md)
+* [The non-daily stream](techup-cast/the-non-daily-stream.md)
