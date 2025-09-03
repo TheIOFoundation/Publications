@@ -26,5 +26,7 @@
 
 ## TechUp Cast
 
-* [ProtocolWatch](techup-cast/protocolwatch.md)
+* [ProtocolWatch](techup-cast/protocolwatch/README.md)
+  * [Season 2025](techup-cast/protocolwatch/season-2025.md)
+  * [Season 2024](techup-cast/protocolwatch/season-2024.md)
 * [The non-daily stream](techup-cast/the-non-daily-stream.md)
