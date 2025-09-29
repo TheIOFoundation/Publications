@@ -1,5 +1,9 @@
 ---
 description: The story behind TIOF's name and of Data-centric Digital Rights advocacy.
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Page Header
+  What's in Name ENG v1.0.png
+coverY: 0
 ---
 
 # What's in a name?
