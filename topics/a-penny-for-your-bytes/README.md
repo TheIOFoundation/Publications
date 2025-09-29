@@ -1,10 +1,16 @@
 ---
+description: >-
+  Technologists, Rights & Civilization: Ideas worth more than a penny yet
+  weighting barely few bytes.
 icon: lightbulb-exclamation-on
 ---
 
 # A penny for your bytes
 
+## About the series
 
+A penny for your bytes is a series of articles dedicated to exploring the relationship and effects of technology in our daily life from the perspective of the technologist.\
+What is their role? How can they be bring about a positive digital future in their role of architects of civilization?
 
 
 
