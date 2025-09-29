@@ -1,6 +1,25 @@
 ---
-cover: ../../.gitbook/assets/jens-johnsson-685540-unsplash.png
-coverY: 83.11999999999993
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-01
+  XXX v1.0.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Part I - About Data-Centric Digital Rights

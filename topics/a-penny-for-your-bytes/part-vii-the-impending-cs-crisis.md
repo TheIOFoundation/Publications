@@ -1,5 +1,7 @@
 ---
-cover: ../../.gitbook/assets/jose-martin-ramirez-carrasco-45sjAjSjArQ-unsplash.png
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07
+  XXX v1.0 (1).png
 coverY: 0
 ---
 

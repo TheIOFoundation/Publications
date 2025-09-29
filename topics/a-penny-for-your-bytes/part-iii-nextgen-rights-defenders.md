@@ -1,5 +1,7 @@
 ---
-cover: ../../.gitbook/assets/stillness-inmotion-Gq3i2dnLGik-unsplash.png
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-03
+  XXX v1.0.png
 coverY: 0
 ---
 

@@ -1,5 +1,7 @@
 ---
-cover: ../../.gitbook/assets/tim-graf-ErO0E8wZaTA-unsplash.png
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-04
+  XXX v1.0.png
 coverY: 0
 ---
 

@@ -1,5 +1,7 @@
 ---
-cover: ../../.gitbook/assets/markus-spiske-XXWM_8f77KQ-unsplash.png
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card
+  APFYB-05XXX v1.0.png
 coverY: 0
 ---
 

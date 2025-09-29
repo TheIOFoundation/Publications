@@ -1,5 +1,7 @@
 ---
-cover: ../../.gitbook/assets/bert-brrr-rhNff6hB41s-unsplash.png
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-06
+  XXX v1.0.png
 coverY: 0
 ---
 
