@@ -15,8 +15,7 @@ coverY: 0
 >
 > _I will remember that I do not treat a fever chart, a cancerous growth, but a sick human being, whose illness may affect the person's family and economic stability. My responsibility includes these related problems, if I am to care adequately for the sick._
 >
-> _I will prevent disease whenever I can, for prevention is preferable to cure._\
->
+> _I will prevent disease whenever I can, for prevention is preferable to cure._<br>
 >
 > _I will remember that I remain a member of society, with special obligations to all my fellow human beings, those sound of mind and body as well as the infirm._
 >

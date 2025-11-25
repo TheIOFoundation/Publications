@@ -55,8 +55,7 @@ Civil society needs to stimulate a similar diaspora, with technologists either j
     This is for us the number one item missing. We keep talking to technologists in ways they don’t understand, creating difficulties for a purpose-driven approach.\
     &#xNAN;_“Build me a social media platform that respects Freedom of Expression”_ does not translate into any immediate algorithm they can work with. Neither do Data Protection Laws, for that matter. Even the current definition of Digital Rights by civil society is vague and unfit for purpose. How are we expecting that technologists help build better and safer technology if they don’t even know how to express what they should be defending? Unless we frame it [in a way that they understand](https://www.digitalnewsasia.com/insights/penny-your-bytes-part-1-about-dcdr), they won’t find [their purpose](https://www.digitalnewsasia.com/insights/penny-your-bytes-programmers-must-not-play-digital-god).
 
-    \
-
+    <br>
 2.  _Money & Career_
 
     The average NGO struggles with steady funding (never mind independent), as it is. Where is the money going to come to sustain Tech NGOs, let alone to even attract this needed talent.\
@@ -71,8 +70,7 @@ Civil society needs to stimulate a similar diaspora, with technologists either j
 
     And I’ll throw an extra concern: A LOT of the funding is coming from the Big Tech that civil society is expected to deal with. See the problem?
 
-    \
-
+    <br>
 3.  _Strategies_
 
     Civil society in general, and NGOs in particular, are having it all wrong by engaging in the same traditional and remedial ways with governments and corporations when it comes to digital technologies. Instead, we should be having technologists participate in standards’ working groups so that [the necessary protections are embedded in them](https://www.digitalnewsasia.com/insights/penny-your-bytes-nature-data). When governments legislate technology they usually make use of these standards and a ripple effect would be produced. Work smart, not hard.

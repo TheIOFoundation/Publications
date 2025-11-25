@@ -93,10 +93,8 @@ We checked domain availability and to our delight, several TLDs (Top Level Domai
 
 This approach has ever since become an actual organization rule that permeates into every single naming exercise affecting our projects or events. For instance:
 
-* **UDDR**, short for Universal Declaration of Digital Rights.\
-
-* **BHR in Tech** (**BiT**), which embodies the application of the UN Guiding Principles in Business and Human Rights in the technology sector.\
-
+* **UDDR**, short for Universal Declaration of Digital Rights.<br>
+* **BHR in Tech** (**BiT**), which embodies the application of the UN Guiding Principles in Business and Human Rights in the technology sector.<br>
 *   **::Assembly**, our convening event for the UDDR ecosystem that we define as
 
     assembly noun
@@ -105,8 +103,7 @@ This approach has ever since become an actual organization rule that permeates i
 
     1: a company of persons gathered for deliberation and legislation.\
     2: a low-level programming language for microprocessors and other programmable devices.\
-    3: a yearly, global conference where agencies and relevant stakeholders convene to maintain and update the UDDR and their local NFDR implementations.\
-
+    3: a yearly, global conference where agencies and relevant stakeholders convene to maintain and update the UDDR and their local NFDR implementations.<br>
 * **TechUp**, our capacity building project, is a bit of an oddity. The name came up after a conversation with a Malaysian Senator who shared some personal experience during his political education. _“But that is another story and shall be told another time.”_
 
 ## The Unicorn <a href="#f23beede-a2f5-4f87-a8ea-69082f8883bc" id="f23beede-a2f5-4f87-a8ea-69082f8883bc"></a>

@@ -12,28 +12,23 @@ The information on this section is being currently transferred from our legacy s
 
 This Policy Brief consolidates the proposed recommendations from The IO Foundation (TIOF), a Tech NGO advocating for Data-Centric Digital Rights, to incorporate technology as a cross-cutting issue in the upcoming National Action Plan on Business and Human Rights in Malaysia in its first iteration.
 
-\
-
+<br>
 
 It is the result of 4 years of advocacy, research and engagement on BHR in the Tech sector in Malaysia and is unique in the sense that it is a document written from the perspective of technologists. Since its inception, TIOF has identified that the most significant gap in (Data-Centric) Digital Rights advocacy is the perspective from the builders and developers of these technologies — the technologists.
 
-\
-
+<br>
 
 While it was the wish of The IO Foundation for this initial iteration of the NAP to develop a full thematic area on Technology, which has been the focus of TIOF’s efforts, we encourage the Malaysian government and working parties to, at least, incorporate Technology as a cross-cutting issue. That is, as a subject that can be identified in all considered thematic areas as the source of challenges that can be remediated through the UNGPs.
 
-\
-
+<br>
 
 This Policy Brief builds on the work of policy documents and toolkits that have been developed before by various policy professionals. While the United Nation Guiding Principle on Business and Human Rights apply to all business sectors, this document focuses on the technology business in particular. Due to the niche scope of this topic within the Business and Human Rights space, it is perhaps easier to understand this brief as an effort for mainstreaming (Data-Centric) Digital Rights into all areas of public policy as part of the Information and Communications Technology sector’s duty of care for digital citizens.
 
-\
-
+<br>
 
 The stakeholders for this Policy Brief are as follows:
 
-\
-
+<br>
 
 | Governance                               |                                                                                                                    |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -49,8 +44,7 @@ The stakeholders for this Policy Brief are as follows:
 
 Table 1.1 - List of stakeholders
 
-\
-
+<br>
 
 Note
 
@@ -60,35 +54,29 @@ In the interest of brevity, this Policy Brief concentrates in providing Recommen
 
 The [UNGPs](https://docs.google.com/document/d/1_8NH-zWoPxQMLOx6QXwSr0btYyWZnvvHz-oUMZZ7M78/edit#bookmark=kix.ghu57zc5ur5z) were endorsed by the United Nations Human Rights Council (HRC) in June 2011— it was a historic event in the adoption of human rights standards to private business actors, raising their responsibility and accountability alongside the government’s duty to protect the rights of citizens.
 
-\
-
+<br>
 
 With businesses as a major driver for economic growth and infrastructure, the UNGPs became a necessary component to support national development agendas such as the digital transformation plans, that put citizens’ well-being first. When a nation endorses a global framework such as the UNGPs, they further anchor that commitment in the form of National Action Plans (NAPs). Though, unfortunately, not a legally binding instrument, it is essential in promoting possible frameworks that the private sector could consider in positioning themselves as businesses that care about holistic development.
 
 Alongside the UNGPs, the United Nations also adopted the [2030 Agenda for Sustainable Development](https://www.un.org/sustainabledevelopment/development-agenda/) with a list of components that make up the Sustainable Development Goals (SDGs). This is done in recognition of the important role that the private sector plays in promoting and implementing sustainable development. While the SDGs have been more popular amongst businesses and organizations worldwide, the adoption of the UNGPs has been slower. The UNGPs have relied on national commitments to adopt and implement them. Those initiatives would later be adopted by the private sector, once the governments finalizes and publishes their NAPs.
 
-\
-
+<br>
 
 The main areas of concern for the general end users of digital technologies often come back to privacy protection. There is a growing concern over how information is collected, stored, and used by owners of digital platforms. While existing legislative developments in this area provide the basic principles for data protection, there is much room for improvement to better protect users of digital technologies in Malaysia. When all is said and done, what we are working towards is making Digital Rights protection work easily and seamlessly for regular end users.
 
-\
-
+<br>
 
 National action plans (NAPs) on business and human rights are policy documents in which a government articulates priorities and actions it will take to protect human rights from business-related activities. As of 1 June 2020, NAPs have been adopted in 24 states around the world. However, few of these NAPs currently address the specific impacts on human rights by the use of digital technologies in the public and private sector, even though the potential scope of these impacts is very wide. Governments and tech companies can play a positive role in enabling the exercise of human rights in the digitalization of their services, but they can also pose risks to them.
 
-\
-
+<br>
 
 Evidently, technological innovation has spurred the need for new laws and regulations that would ensure accountability of technology use via legal instruments. Even though the Malaysian government has taken steps to enable digital transformation and promote digital adoption by passing laws and policies that were intended to protect all parties engaged in digital transactions, there is still ample space for improvements.
 
-\
-
+<br>
 
 The advocacy of human rights protection in the digital space, popularly known as Digital Rights advocacy, is gaining momentum globally. By and large, Digital Rights organizations have focused on legislative measures to protect the rights of people using digital technologies, especially when interacting with other parties on the Internet. More legislations, regulations, and policies have emerged in recent years to give a reference to what rights people have that are to be protected by the issuing authorities, how to exercise those rights, and the provision of penalties for non-compliance.
 
-\
-
+<br>
 
 The IO Foundation has however identified a major problem in this approach: in the case of civilian consumption technology, these legislations, regulations and policies are not issued alongside technical specifications for their implementation. This creates an inevitable loophole that refrains:
 
@@ -96,18 +84,15 @@ The IO Foundation has however identified a major problem in this approach: in th
 * the verification of claims of compliance through standard methodologies;
 * technologists from creating products that protect Rights by design.
 
-\
-
+<br>
 
 This is in stark contrast with any other adequately regulated product where companies never need to compete at compliance level: their products need to meet that basic criteria before they can compete in the market of ideas through their value propositions.
 
-\
-
+<br>
 
 This creates challenges in promoting and strengthening both Rights (Human and Digital) and vibrant digital economies that concentrate on innovative value propositions while respecting Rights.
 
-\
-
+<br>
 
 The IO Foundation works towards resolving this problems by:
 
@@ -115,13 +100,11 @@ The IO Foundation works towards resolving this problems by:
 * that technology has the capacity to preemptively eliminate harms (especially Digital Harms) and thus drastically reducing the need for remedy;
 * that, given a certain jurisdiction, the applicable protections given to its citizens should be transparently implemented in the technology they use (“Rights by design”)
 
-\
-
+<br>
 
 Data being the core component that represents citizens (in the shape of models called Digital Twins), TIOF has approached this challenge from a Data-Centric Digital Rights perspective; that is, the attempt to enact the protection of Rights through a framework that allows&#x20;
 
-\
-
+<br>
 
 ***
 
@@ -130,32 +113,27 @@ The UNGPs provide a suitable framework to combine Human Rights and Data-Centric 
 ***
 
 \
-\
-
+<br>
 
 Note:&#x20;
 
 While currently not fully developed, the Framework provides a structured approach to protecting Rights and is used as guidance across this Policy Brief.
 
-\
-
+<br>
 
 Technology in existing National Action Plans
 
 The Malaysian NAP should make reference to technology inclusions in existing National Action Plans:
 
-\
-
+<br>
 
 1. Japan. “In terms of the development of artificial intelligence (AI), a Council for Social Principles of Human-centric AI was established for the purpose of considering the basic principles for implementing and sharing AI in society in a better way under the AI Strategy Expert Meeting for Strength and Promotion of Innovation.”&#x20;
 
-\
-
+<br>
 
 2. &#x20;Colombia. “The Ministry of Telecommunications \[Mintic] will elaborate the “Guide on Human Rights and Business: A document on the application of human rights and business principles” for the specific context of the Information and Telecommunications Technologies (ICT) sector.”
 
-\
-
+<br>
 
 3. Luxembourg. “1.15. Protection of human rights in business in the context of new information and communication technologies (ICT), including artificial intelligence (AI)”
 
@@ -163,15 +141,13 @@ The Malaysian NAP should make reference to technology inclusions in existing Nat
 
 This Policy Brief is produced through 2 approaches:
 
-\
-
+<br>
 
 1\) Cross-referencing the UNGPs against legislations that govern data and/or digital technologies in Malaysia:
 
 TIOF conducted a policy review of three main pieces of legislation that govern data and/or digital technologies in Malaysia. The legislations are the Personal Data Protection Act (PDPA) 2010, the Communications and Multimedia Act (CMA) 1998, and the Technologists and Technicians Act (TTA) 2015. This part of the research was specifically looking for Rights protection of citizens’ data, who we call Digital Twins, and analyze for possible gaps in the policies.
 
-\
-
+<br>
 
 2\) Applying the principles behind the DCDR Framework:
 
@@ -183,8 +159,7 @@ TIOF analyzed the existing plans for Malaysia’s digital development and identi
 
 When compared to the principles outlined in the UNGP BHR, it was found that the PDPA does provide a minimum standard of protection for the protection of personal data processed in Malaysia. There are, however, critical areas of legislative improvement necessary to keep up with the technological advancements of our time.&#x20;
 
-\
-
+<br>
 
 The PDPA defines personal data as any information in respect of commercial transactions (Section 4), which:
 
@@ -192,23 +167,19 @@ The PDPA defines personal data as any information in respect of commercial trans
 2. is recorded with the intention that it should wholly or partly be processed by means of such equipment; or&#x20;
 3. is recorded as part of a relevant filing system or with the intention that it should be part of a relevant filing system, that relates directly or indirectly to a data subject, who is identified or identifiable from that information or from that and other information in the possession of a data user.
 
-\
-
+<br>
 
 In other words, personal data is any information that could identify a person, who resides within or outside of Malaysia, for as long as the data of that person is being processed in Malaysia in a machine-readable format
 
-\
-
+<br>
 
 The person whose data it belongs to is called the “data subject”, while the person who is collecting, processing, and analyzing the data is called a “data user”. All this only applies to data used for commercial purposes, and does not apply to the Federal Government and State Governments as per Section 3 (1) of the Act. Furthermore, this law does not apply to personal data processed outside of Malaysia (Section 3\[2]), leaving Malaysians dependent on the personal data protection laws of whichever countries their data resides.
 
-\
-
+<br>
 
 In line with [TIOF’s DCDR Principle I](https://tiof.click/Principles) of “I am My Data”, we will be referring to “data subjects'' as “data owners'' to provide a more accurate representation of the digital reality we live in. It is essential to convey the right ideas and concepts to the public for their increased awareness on the subject. The term “data subject” is not only inaccurate to represent the reality of how our (digital) data relates to our physical bodies, it poses a big challenge to the proper legislative protections of our data.
 
-\
-
+<br>
 
 In the PDPA, the rights protected of data owners are as follows:
 
@@ -224,13 +195,11 @@ In the PDPA, the rights protected of data owners are as follows:
 
 Table 4.1 - Rights of PDPA data owners
 
-\
-
+<br>
 
 As for data users, they are obliged by the law to adhere to the seven (7) data protection principles that outline what they can or cannot do with regards to the personal data that they have access to. However, there are exceptions to these principles whereby the data user may not be liable to a violation of the principles under circumstances described in the accompanying sub-sections. A summary of the principles, their descriptions, and caveats are outlined below:
 
-\
-
+<br>
 
 | Principle         | Section | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Caveat(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -244,61 +213,51 @@ As for data users, they are obliged by the law to adhere to the seven (7) data p
 
 Table 4.2 - PDPA’s data protection principles
 
-\
-
+<br>
 
 Based on what we have seen in the PDPA, the loopholes that exist within the legislation would put data owners at more of a disadvantage than its opposite. From a practical standpoint, this is primarily due to the fact that data owners are not recognised by law as the owners of their data, so their data is not recognized as part of them, and merely exist as “subjects” of the data they rightfully own. As a result, the law views digital citizens as separate from the human beings, who are the source and rightful owners of the data extracted from them.
 
-\
-
+<br>
 
 This point is important to note because without contextualizing data back to its source, data becomes meaningless, and quite utterly useless. There is no business value to be extracted from useless data, therefore the recognition of the source entity and digital entity relationship is crucial for States to provide adequate domestic policy space to meet the human rights obligations of businesses (UNGP 9).&#x20;
 
-\
-
+<br>
 
 ***
 
-\
-
+<br>
 
 Correcting the current paradigm on data is necessary for the correct implementation of data protection in digital spaces.
 
 ***
 
-\
-
+<br>
 
 On more granular standpoints, exceptions to the rule, or caveats, within the PDPA pose risks to digital rights protection of technology users who are already legally disadvantaged for not being the rightful owners of their own data, apart from other disadvantages such as the costly nature of legal remedies. Some of the caveats are too dangerously broad to provide even the minimum protection, with clauses such as Section 39 (4) which allows data users to disclose personal information to a third party if it is within their “reasonable belief” that they “would have had the consent of the data owner if the data owner had known the circumstances of the disclosure”, which means citizens are expected to extend complete trust in the judgment of the data users to determine if we “would have consented” and if we “had known” about “the circumstances”. These types of ambiguous clauses cast a big shadow of doubt into the ability of the legislation to protect the data of citizens and ultimately on the State’s duty to protect (UNGP Pillar 1) citizens from businesses’ failure to respect (UNGP Pillar 2) our human right to privacy.
 
-\
-
+<br>
 
 ### 4.2 Communications and Multimedia Act (CMA)
 
 \[PENDING]
 
-\
-
+<br>
 
 ### 4.3 Technologists and Technicians Act (TTA)
 
 \[PENDING]
 
-\
-
+<br>
 
 ### 4.4 DCDR Framework
 
 The Data-Centric Digital Rights Framework represents an attempt to model the protection of data through the use of standard definitions and methodologies.
 
-\
-
+<br>
 
 While a full presentation and analysis of the DCDR Framework is out of the scope of this Policy Brief, the following are the main applicable considerations.
 
-\
-
+<br>
 
 #### 4.4.1 DCDR Principles applied to the BHR Pillars
 
@@ -330,41 +289,34 @@ Historically speaking, the traditional Digital Rights advocacy has concentrated 
 \
 \
 \
-\
-
+<br>
 
 Consider the following diagram:
 
-\
-
+<br>
 
 Image 4.1 - Spaces and Entities
 
 \
-\
-
+<br>
 
 On the left, the Physical Space, are 2 (physical) entities, which for the purposes of this Policy Brief we can consider citizens, the government or a corporation.
 
-\
-
+<br>
 
 On the right, the Digital Space, are represented the Digital Twins of the 2 entities.
 
 In the case of citizens, this would be one of their numerous data representations and in the case of governments and corporations the digital twin encompases the digital platforms and services they provide.
 
-\
-
+<br>
 
 All of these objects (the entities and their digital twins) interact with each other, potentially generating harms. The traditional Digital Rights approach provides no clarity as to how to define these harms in a way that can be expressed technically and therefore understood by technologists.
 
-\
-
+<br>
 
 When attempting to structure how the UNGPs could protect both the Rights of citizens and their data, The IO Foundation analyzed the scenario in Image 4.1 by categorizing the interactions between the Physical and Digital spaces as source and receiver of a given Harm. Table 4.3 provides an easy representation of the possible combinations.
 
-\
-
+<br>
 
 | <p><br></p> | RECEIVER                                                       |                                                                 |                                                                |
 | ----------- | -------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -374,33 +326,27 @@ When attempting to structure how the UNGPs could protect both the Rights of citi
 
 Table 4.3 - DCDR Harms Matrix
 
-\
-
+<br>
 
 Following Table 4.3, it is now easier to understand and define Human Rights as the proactive attempt to avoid harms received by a physical entity.
 
-\
-
+<br>
 
 Image 4.3 - Human Rights
 
-\
-
+<br>
 
 In similar fashion we can define Data-Centric Digital Rights as the proactive attempt to avoid harms received by a digital twin (which is likely to translate into a Human Right at some point).
 
-\
-
+<br>
 
 Image 4.3 - Data-Centric Digital Rights
 
-\
-
+<br>
 
 Combining both concepts provides a general approach to observe and implement both Human Rights and Data-Centric Digital Rights through the implementation of the UNGPs on BHR in the Tech sector.
 
-\
-
+<br>
 
 Image 4.3 - HR and DCDR delivered by BHR in Tech
 
@@ -408,20 +354,17 @@ Image 4.3 - HR and DCDR delivered by BHR in Tech
 
 In its current iteration, the Malaysian National Action Plan will be focusing in the following 3 thematic areas:
 
-\
-
+<br>
 
 * Governance
 * Labor
 * Environment
 
-\
-
+<br>
 
 The following are the Recommendations made by The IO Foundation to protect the rights of citizens’ and of their data (which conforms their digital twins).
 
-\
-
+<br>
 
 For ease of reference, Recommendations are coded as: NAPR.Number
 
@@ -436,8 +379,7 @@ Where:
 
 Observing the impact of technology is core to implementing the UNGPs in Malaysia’s governance.
 
-\
-
+<br>
 
 The following are some of the aspects in which technology influences governance:
 
@@ -453,8 +395,7 @@ The following are Recommendations aimed at supporting the UNPGs in this thematic
 
 The protection of Malaysia's citizen’s data is core to being able to protect their rights and implement the UNGPs. For as long as the nature of data is not properly understood and recognized by the government, it will not be possible to mitigate Harms (both physical and digital) inflicted to its citizens through the implementation of Rights.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.1.1] Recognize the true nature of data.
 
@@ -462,8 +403,7 @@ Initiate a program to recognize the inextricable connection between citizens and
 
 See also Further recommendations.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.1.2] Protect citizen data on their devices.
 
@@ -471,15 +411,13 @@ Establish a national regulation covering the proper procedures to hand over devi
 
 Consider implementing a grading system similar to the existing one in the Food Hygiene Regulations (FHR) 2009.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.1.3] Research on DCDR.
 
 Initiate a program to support the research of the components required to translate the existing regulations on technology into technical terms around the Data-Centric Digital Rights Framework.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.1.4] Issue a DR SDK.
 
@@ -487,8 +425,7 @@ Initiate a program to implement the results of the DCDR research into a (Data-Ce
 
 Aside from resolving the current problem of verification of claims of compliance, it would also provide a standard way to perform a Digital Rights Impact Assessment (DRIA)
 
-\
-
+<br>
 
 \[NAPR.5.1.2.1.5] Expand the National Data Agency.
 
@@ -500,13 +437,11 @@ Expand the capacities of JPDP so that it can oversee the maintenance, deployment
 \
 \
 \
-\
-
+<br>
 
 \[NAPR.5.1.2.1.6] Redefine the actors in data protection policies.
 
-\
-
+<br>
 
 | Actors                  | Current definition                                                                                                                                     | Redefinition based on digital realities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -515,8 +450,7 @@ Expand the capacities of JPDP so that it can oversee the maintenance, deployment
 | Data subjects           | The source of the data i.e. the humans.                                                                                                                | We should not have “data subjects”. The term “subject” has implications of belonging to indicate that someone belongs to a third or external party e.g. a State, corporations, which extracts people’s data via the use of technologies. As the source of our own data, we are the owners of our data. Our data, just like us, should not be a “subject” of someone or something else. Laws and policies must reflect the digital reality that citizens are not subject to their data, but are sole owners and controllers of their data. |
 | Data users / processors | Anyone with access to read, edit, copy, and delete data or perform any actions that changes the states of data between at rest, in use, or in transit. | For processing highly sensitive data, requiring the processor to be a licensed technologist (\[NAPR.5.2.2.3.1]) would increase the level of data security, and makes the protection of data a personal liability to a technologist’s profession.                                                                                                                                                                                                                                                                                          |
 
-\
-
+<br>
 
 **5.1.2.2 Revisit Malaysia’s National Tech Infrastructure**
 
@@ -526,15 +460,13 @@ Upscaling Malaysia’s digital infrastructure towards observing and implementing
 
 Initiate a program through MAMPU to translate all government’s processes and existing regulations into BPMN.&#x20;
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.2] Government digital services monitoring.
 
 Provide a government led monitor that allows to observe status of the government’s services (Websites, APIs, etc.).
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.3] Commit to a high SLA for the national digital infrastructure.
 
@@ -542,50 +474,43 @@ Recognizing the critical role that the national digital infrastructure plays in 
 
 This number represents 1 full natural day of downservice (per service) across a full natural year.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.4] Protect Internet Namespaces.
 
 Considering the emergence of alternative naming protocols, ensure the current namespace (DNS) is not threatened through the Governmental Advisory Committee (GAC) at ICANN. Preserving a consistent user experience will result in minimizing the likelihood of digital attacks on citizens..
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.5] Monitor Internationalized domain names (IDNs)
 
 With the imminent deployment of IDNs by ICANN, it will be crucial to ensure it does not open the doors for digital attacks on citizens.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.6] Citizen network.&#x20;
 
 Initiate a program to assess how to complement Malaysia’s digital infrastructure through the use of its citizens’ devices. See Environment
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.7] Enable and encourage citizens VPS.
 
 Initiate a program to enable and encourage citizens to run their own VPS with their data.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.8] Establish data embassies.
 
 Initiate a program to establish territorial legitimacy over servers holding data of Malaysian citizens abroad.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.9] Explore Digital Taxes in hardware for digital companies.
 
 Initiate a program to explore the possibility to apply a digital tax that would compel tech companies hoping to transact with Malaysian citizens into supplying proportional infrastructure. Consider the possibility of GLCs as a starting point.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.2.10] Explore an Open Source revival program.
 
@@ -595,71 +520,61 @@ Initiate a program to explore the possibility of compelling tech companies to re
 
 Technology can enable the government to effectively increase its transparency and accountability in accordance with its National Anti-corruption Plan.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.1] Upscale Open Data government efforts.
 
 Consolidate the Open Data portals that the government is currently offering.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.2] Improve ODIN score
 
 Invest efforts in improving Malaysia’s current ODIN score.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.3] Public registry of government databases.
 
 Governance bodies should publish which databases they have provided they are not under the Secrets Act.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.4] Publish Policies in machine-readable formats.
 
 Establish a mechanism to publish policies in a machine-readable format so that they can be processed and referenced more efficiently.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.5] Use of BPMN to define processes
 
 Leverage on \[NAPR.5.1.2.2.1] to increase transparency and accountability in government processes.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.6] Include technologists in tech consultations.
 
 Increase the participation of the tech Civil Society (such as tech communities and tech NGOs) and industry representatives in policy making affecting the Malaysian tech sector.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.7] Publishing of tech-related regulations
 
 Ensure the publication and easy access of all tech-related regulations. At the time of writing, the National Data Sharing Policy (NDSP) has been announced yet the text is nowhere to be found. A similar situation happens with the upcoming revision of the PDPA of which the final draft, to our knowledge, hasn’t been circulated.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.8] HRIAs & DRIAs
 
 Conduct periodic Human Rights Impact Assessments (HRIAs) and (Data-Centric) Digital Rights Impact Assessments (DRIAs). The adoption of the DR SDK would enable a systematic monitoring of the impact of the UNGPs.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.9] National registry of data breaches
 
 Create a national registry of reported data breaches affecting Malaysian citizens, both domestically and internationally.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.3.10] National Tech Ecosystem registry.
 
@@ -669,22 +584,19 @@ Create a national registry mapping the Malaysian tech ecosystem (from companies,
 
 An effective implementation of the UNGPs in Malaysia will necessitate awareness and training for all involved stakeholders. This is particularly true of the government itself and of technologists, which The IO Foundation regards as the Next Generation of Rights Defenders.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.4.1] Recognition of NextGen Rights Defenders.
 
 \[Pending]
 
-\
-
+<br>
 
 \[NAPR.5.1.2.4.2] Introduce UNGPs and related subjects.
 
 Produce and implement programs to incorporate Human Rights, (Data-Centric) Digital Rights and the UNGPs into the tech educational pipeline.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.4.3] Include Digital Literacy and UNGPs in all government agencies.
 
@@ -696,48 +608,41 @@ This will be crucial moving forward to not only expect the adoption of the UNGPs
 
 Certain existing regulations may require small amendments to ensure they support the implementation of the UNGPs.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.5.1] In general, however, The IO Foundation recommends ensuring that, moving forward, tech-related legislation incorporates the UNGPs.
 
-\
-
+<br>
 
 PDPA
 
 Aside from the [comments submitted during the Public Consultation on PDPA ](https://tiof.click/DCDRPubPDPA20200)invited by the Data Protection Commissioner in 2020, The IO Foundation proposes the following recommendations (without the knowledge of the provisions in the upcoming PDPA version):
 
-\
-
+<br>
 
 \[NAPR.5.1.2.5.2] Codify the ‘I am My Data’ principle into law.
 
 Citizens' data should be recognised as part of themselves so that any constitutional laws in the jurisdiction covers citizens’ data as much as it covers their physical bodies. When the data of citizens is recognised as part of themselves, existing legal frameworks that protect citizens’ human rights can be automatically applied to their digital twins, ensuring the protection of citizens’ digital rights. For PDPA to effectively protect Malaysian citizens and uphold their Rights, it is crucial that the true nature of data is legally recognized.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.5.3] Cross-border protections.
 
 Secure bilateral mechanisms to ensure that, in the event of an inevitable cross-border data transfer from Malaysian citizens, the recipient legislation enjoys at least the same protections that PDPA confers.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.5.4] Include data managed by the government.
 
 Section 3 (1) of the PDPA remains one of the biggest challenges to comprehensive data protection in Malaysia. It also brings confusion to public citizens when government bodies cite their commitment to the PDPA without actually being legally liable to adhere to it. This situation could have detrimental consequences to the citizens’ ability to trust the government with the protection of their data. Malaysian lawmakers have to amend this section of the PDPA to remove the non-application of the act to Federal and State government bodies.
 
-\
-
+<br>
 
 \[NAPR.5.1.2.5.5] Expand the definition of “personal information”.
 
 The definition of ‘personal information’ should not only be full names, phone numbers, national identification numbers, location data, etc., it should also include information inferred from the personal information collected in the service of surveillance and profiling purposes which could be potentially abused. In other words, personal information is not just objective information that platforms know about us, but also what their systems and/or algorithms learn about us from different data sources that are, knowingly or unknowingly, linked together
 
-\
-
+<br>
 
 Malaysia Digital Economy Blueprint
 
@@ -749,8 +654,7 @@ Malaysia Digital Economy Blueprint
 
 Observing the impact of technology is core to implementing the UNGPs in Malaysia’s labor sector.
 
-\
-
+<br>
 
 The following are some of the aspects in which technology influences labor:
 
@@ -767,8 +671,7 @@ The following are Recommendations aimed at supporting the UNPGs in this thematic
 
 Establish mechanisms to ensure that workers are not taken advantage of and their Rights are not observed and implemented.
 
-\
-
+<br>
 
 Establish the necessary mechanisms to
 
@@ -790,8 +693,7 @@ Despite the rejection of the Computing Professionals Bill of 2011, the crucial r
 
 **5.2.2.4 Amendments to existing labor regulation**
 
-\
-
+<br>
 
 Contract Act
 
@@ -804,8 +706,7 @@ In addition to \[NAPR.5.2.2.1.2] and \[NAPR.5.2.2.2.1], implement the necessary 
 
 This would allow enforcing the minimum information legally expected while severely reducing abuses to the workers and facilitate statistical analysis.
 
-\
-
+<br>
 
 \[NAPR.5.2.2.4.2] BOYD and workers
 
@@ -817,8 +718,7 @@ Make provisions so that companies implementing a Bring Your Own Device (BOYD) po
 
 Technology needs to be considered in their impact on implementing the UNGPs in Malaysia’s environment.
 
-\
-
+<br>
 
 The following are some of the aspects in which technology influences environment:
 
@@ -834,13 +734,11 @@ The following are Recommendations aimed at supporting the UNPGs in this thematic
 
 \[NAPR.5.2.2.4.2] Establish a&#x20;
 
-\
-
+<br>
 
 CSM could be tasked to detach members or provide the service of wipeout and ensure that no malware/spyware is installed in the device.
 
-\
-
+<br>
 
 Repair Mode >> Protocols for full lifecycle
 
@@ -848,29 +746,25 @@ Google. Apple, FAIR Phone, Local Malaysian brands
 
 \>> MCMC
 
-\
-
+<br>
 
 Would serve as the basis for a nation-wide DLT that is supported by its citizens as a national duty.
 
 This could have further ramifications in the area of Labor as the citizen would be generating labor for the government.
 
-\
-
+<br>
 
 **5.3.2.2 Amendments to existing environmental regulation**
 
 None.
 
-\
-
+<br>
 
 ## 6. Further recommendations
 
 The following are a series of recommendations that, beyond the current National Action Plan, can support the implementation of the UNGPs in the tech sector in Malaysia.
 
-\
-
+<br>
 
 For ease of reference, Recommendations are coded as: OTHR.Number
 
@@ -909,8 +803,7 @@ A number of relevant considerations are to be studied if Malaysia wishes to prep
 
 Initiate the mechanisms, possibly on the grounds of Article 5.1 Right to Life, to evaluate the feasibility and implications of recognizing the intrinsic link between citizens and their data so that protections upon the latter may be applicable in a more clear manner.&#x20;
 
-\
-
+<br>
 
 \[OTHR.6.2.1.2] Establish Connectivity as a Constitutional Right.
 
@@ -932,24 +825,20 @@ Creating a Technology Committee composed by representatives of the Tech sector t
 
 This Policy Brief attempts to bring attention to the protections that the Malaysian government can deliver to its citizens and their digital twins through the upcoming National Action Plan on Business and Human Rights, especially by focusing on its application in the tech sector.
 
-\
-
+<br>
 
 By including technology as a cross-cutting issue in this current NAP cycle and focusing on implementing technological solutions, Malaysia can lead the way both in the SEA region and globally to become an example to follow in how governments can protect the rights of their citizens and of their data.
 
-\
-
+<br>
 
 The IO Foundation wishes to emphatically request the Malaysian government and the organizations involved in this NAP process to include technology as a cross-cutting issue and to incorporate as many recommendations herein described as possible.
 
-\
-
+<br>
 
 The IO Foundation remains at their disposal for any further consultation and to support the implementation of the recommendations.
 
 \
-\
-
+<br>
 
 ## Annexes
 
@@ -957,19 +846,16 @@ The IO Foundation remains at their disposal for any further consultation and to 
 
 The following is a list of governance bodies and related agencies that are referenced in this policy brief. A brief summary of their mandate or function is also included in order to understand better their relevance to the recommendations herein submitted.
 
-\
-
+<br>
 
 Note: Should you note that a relevant body is missing from this list, [kindly reach out to The IO Foundation](https://docs.google.com/document/d/1_8NH-zWoPxQMLOx6QXwSr0btYyWZnvvHz-oUMZZ7M78/edit#heading=h.4rzyvioe1irt) so we can analyze it and accordingly add it to this Policy Brief.&#x20;
 
-\
-
+<br>
 
 Ministry of Communications and Multimedia (K-KOMM / ex KKMM)
 
 \
-\
-
+<br>
 
 Related agencies
 
@@ -977,20 +863,17 @@ Related agencies
 
 The main responsibility of this Department is to enforce and regulate PDPA in Malaysia. PDPA focuses on the processing of personal data in commercial transactions and the avoidance of misuse of personal data.
 
-\
-
+<br>
 
 MCMC
 
 [https://www.mcmc.gov.my](https://www.mcmc.gov.my)&#x20;
 
-\
-
+<br>
 
 The Malaysian Communications and Multimedia Commission (MCMC) is a regulatory body whose key role is the regulation of the communications and multimedia industry based on the powers provided for in the Malaysian Communications and Multimedia Commission Act 1998, the Communications and Multimedia Act 1998, and the Strategic Trade Act 2010.
 
-\
-
+<br>
 
 Related agencies
 
@@ -998,36 +881,31 @@ CyberSecurity Malaysia (CSM)
 
 \
 \
-\
-
+<br>
 
 [National Cyber Security Agency](https://www.nacsa.gov.my/) (NACSA)
 
-\
-
+<br>
 
 National lead agency for cyber security matters, focused on securing and strengthening Malaysia's resilience in facing the threats of cyber attacks, by coordinating and consolidating the nation's best experts and resources in the field of cyber security. It develops and implements national-level cyber security policies and strategies, protecting Critical National Information Infrastructures (CNII).
 
 \
 \
 \
-\
-
+<br>
 
 [Malaysia Digital Economy Corporation](https://mdec.my/) (MDEC)
 
 MDEC was established in 1996 as the lead agency to implement the MSC Malaysia initiative. Today, it is an agency under the Ministry of Communications and Multimedia Malaysia (KKMM) with a close to 25-year track-record of successfully leading the ICT and digital economy growth in Malaysia.&#x20;
 
 \
-\
-
+<br>
 
 [Malaysian Administrative Modernisation and Management Planning Unit](https://www.mampu.gov.my/en/) (MAMPU)
 
 MAMPU is responsible for modernizing and reforming the public sector.
 
-\
-
+<br>
 
 [Malaysia Board of Technologists](https://www.mbot.org.my/) (MBOT)
 
@@ -1035,54 +913,46 @@ Malaysia Board of Technologists (MBOT) is a professional body that gives Profess
 
 \
 \
-\
-
+<br>
 
 PIKOM
 
 \
-\
-
+<br>
 
 Ministry of Labour
 
 \
 \
-\
-
+<br>
 
 [Malaysian Technical Standards Forum Bhd (MTSFB)](https://mtsfb.org.my/)
 
 \
 \
-\
-
+<br>
 
 MRANTI
 
 \
-\
-
+<br>
 
 (Note: MaGIC and MIMOS were consolidated inside MRANTI)
 
 \
-\
-
+<br>
 
 [Malaysia Open Data Portal](https://www.data.gov.my/)
 
 Malaysia Open Data Portal
 
-\
-
+<br>
 
 MyGDX
 
 \
 \
-\
-
+<br>
 
 ###
 
@@ -1090,21 +960,18 @@ MyGDX
 
 The following is a list of applicable legislation in the context of Malaysia that relate to this Policy Brief and its recommendations. A brief summary of their content is also included in order to understand better their relevance to the recommendations herein submitted.
 
-\
-
+<br>
 
 Note: Should you note that an applicable legislation is missing from this list, [kindly reach out to The IO Foundation](https://docs.google.com/document/d/1_8NH-zWoPxQMLOx6QXwSr0btYyWZnvvHz-oUMZZ7M78/edit#heading=h.4rzyvioe1irt) so we can analyze it and accordingly add it to this Policy Brief.
 
-\
-
+<br>
 
 Federal Constitution
 
 https://www.jac.gov.my/spk/images/stories/10\_akta/perlembagaan\_persekutuan/federal\_constitution.pdf
 
 \
-\
-
+<br>
 
 | [Personal Data Protection Act 2010 (Act 709)](https://www.kkmm.gov.my/pdf/Personal%20Data%20Protection%20Act%202010.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1129,8 +996,7 @@ https://www.jac.gov.my/spk/images/stories/10\_akta/perlembagaan\_persekutuan/fed
 | An Act to provide for legal recognition of electronic messages in dealings between the Government and the public, the use of electronic messages to fulfill legal requirements and to enable and facilitate the dealings through the use of electronic means and other matters connected therewith.                                                                                                                                                                                                                                                                                                                                                            |
 | <p>National Language Act </p><p><br><br></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-\
-
+<br>
 
 Source: [NACSA](https://www.nacsa.gov.my/legal.php)
 
@@ -1140,13 +1006,11 @@ Source: [NACSA](https://www.nacsa.gov.my/legal.php)
 
 The following is a list of applicable regulations in the context of Malaysia that relate to this Policy Brief and its recommendations. A brief summary of their content is also included in order to understand better their relevance to the recommendations herein submitted.
 
-\
-
+<br>
 
 Note: Should you note that an applicable regulation is missing from this list, [kindly reach out to The IO Foundation](https://docs.google.com/document/d/1_8NH-zWoPxQMLOx6QXwSr0btYyWZnvvHz-oUMZZ7M78/edit#heading=h.4rzyvioe1irt) so we can analyze it and accordingly add it to this Policy Brief.&#x20;
 
-\
-
+<br>
 
 | [Personal Data Protection (Compounding of Offenses) Regulations 2016](https://www.pdp.gov.my/jpdpv2/assets/2019/09/Peraturan-Kompaun.pdf)                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1160,8 +1024,7 @@ Note: Should you note that an applicable regulation is missing from this list, [
 | [Communications and Multimedia (TECHNICAL STANDARDS) REGULATIONS 2000](https://www.mcmc.gov.my/en/legal/acts/communications-and-multimedia-act-1998-reprint-200/communications-and-multimedia-\(technical-standards)                |
 | This regulation outlines the technical standards for universal service provisions (USPs), the certifications of communications equipment, as well as the suspension or cancellation, recall, and disposal of certified equipment.   |
 
-\
-
+<br>
 
 ###
 
@@ -1169,18 +1032,15 @@ Note: Should you note that an applicable regulation is missing from this list, [
 
 The following is a list of National Plans in the context of Malaysia that relate to this Policy Brief and its recommendations. A brief summary of their content is also included in order to understand better their relevance to the recommendations herein submitted.
 
-\
-
+<br>
 
 Note: Should you note that an applicable National Plan is missing from this list, [kindly reach out to The IO Foundation](https://docs.google.com/document/d/1_8NH-zWoPxQMLOx6QXwSr0btYyWZnvvHz-oUMZZ7M78/edit#heading=h.4rzyvioe1irt) so we can analyze it and accordingly add it to this Policy Brief.&#x20;
 
-\
-
+<br>
 
 Malaysia Digital Economy Blueprint
 
-\
-
+<br>
 
 National Data Sharing Policy (NDSP)
 
@@ -1190,98 +1050,83 @@ At the time of writing, the documentation related to the NDSP is not publicly av
 
 The following is a list of additional resources of interest, both national and international, that relate to this Policy Brief and its recommendations. A brief summary of their content or function is also included in order to understand better their relevance to the recommendations herein submitted.
 
-\
-
+<br>
 
 Note: Should you note that a relevant resource is missing from this list, [kindly reach out to The IO Foundation](https://docs.google.com/document/d/1_8NH-zWoPxQMLOx6QXwSr0btYyWZnvvHz-oUMZZ7M78/edit#heading=h.4rzyvioe1irt) so we can analyze it and accordingly add it to this Policy Brief.&#x20;
 
-\
-
+<br>
 
 \[1] [BHEUU’s National Action Plan On Business And Human Rights](https://tiof.click/MYSBHEUUNAP2020)
 
 BHEUU’s mandate and strategy to develop Malaysia’s National Action Plan.
 
-\
-
+<br>
 
 \[2] [United Nations Guiding Principles on Business and Human Rights](https://tiof.click/UNGP)
 
-\
-
+<br>
 
 \[3] [Universal Declaration of Human Rights](https://tiof.click/TIOFUNDOCUDHR)
 
 \
-\
-
+<br>
 
 Human Rights Impact Assessment
 
 \
-\
-
+<br>
 
 [Data-Centric Digital Rights Framework](https://tiof.click/DCDRDocs)
 
 A framework for technologists composed of Principles, Taxonomies and other technical tools enabling them in their role as NextGen Rights Defenders.
 
-\
-
+<br>
 
 [TIOF's PDPA Comments 2020 submission](https://tiof.click/DCDRPubPDPA20200)
 
 \
-\
-
+<br>
 
 [Data Protection and Digital Rights - Are Malaysians Concerned?](https://tiof.click/PubDP2019)
 
 \
-\
-
+<br>
 
 [GlobalNAPs](https://tiof.click/GlobalNAPsWeb)
 
 A global comparison of NAPs by the Danish Institute of Human Rights
 
-\
-
+<br>
 
 [Data Protection Laws of the world](https://tiof.click/DLAPiperDPWeb)
 
 A global comparison of Data Protection Laws by DLA Piper
 
-\
-
+<br>
 
 ASEAN Digital Masterplan 2025
 
 \
-\
-
+<br>
 
 Business Process Model and Notation
 
 https://www.bpmn.org/
 
-\
-
+<br>
 
 Open Data Inventory (ODIN)
 
 https://odin.opendatawatch.com/
 
-\
-
+<br>
 
 Federal Legislation Portal
 
 https://lom.agc.gov.my/
 
 \
-\
-
+<br>
 
 ### A.6 About this document
 
@@ -1300,8 +1145,7 @@ This brief was produced by The IO Foundation, with the inestimable support and c
   * Global Network Initiative
   * Malaysian Public Policy Competition team (by ICMS)
 
-\
-
+<br>
 
 * Individuals (in alphabetical order)
 *
@@ -1340,17 +1184,15 @@ Email: [Contact@TheIOFoundation.org](mailto:Contact@TheIOFoundation.org)
 
 Website: [https://TheIOFoundation.org](https://tiof.click/TIOFWeb)&#x20;
 
-\
-
+<br>
 
 Follow us on our Social Media channels:
 
 [LinkedIn](https://tiof.click/TIOFLinkedIn) - [Twitter](https://tiof.click/TIOFTwitter) - [Facebook](https://tiof.click/TIOFFacebook) - [Instagram](https://tiof.click/TIOFInstagram) - [YouTube](https://tiof.click/TIOFYoutube)
 
-\
-
+<br>
 
 Know about our stance on Big Tech: [Hey Big Tech! declaration](https://tiof.click/HeyBigTech)
 
 \
-\
+<br>

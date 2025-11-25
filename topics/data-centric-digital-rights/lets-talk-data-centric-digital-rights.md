@@ -193,8 +193,7 @@ TIOF aims to provide platforms to raise awareness on Digital Rights as well as e
 
 &#x20;
 
-\
-
+<br>
 
 {% include "../../.gitbook/includes/byline-jfq.md" %}
 
@@ -204,8 +203,7 @@ TIOF aims to provide platforms to raise awareness on Digital Rights as well as e
 
 
 
-\
-
+<br>
 
 ### References <a href="#id-412f0b82-98a5-4a72-816f-ca7f049e4ee8" id="id-412f0b82-98a5-4a72-816f-ca7f049e4ee8"></a>
 

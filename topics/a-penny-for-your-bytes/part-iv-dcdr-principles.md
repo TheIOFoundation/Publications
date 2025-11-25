@@ -41,19 +41,15 @@ Bouncing on top of your screen, Jiminy would encourage you to "_Leave no policy 
 
 Think about it: What’s the best way to give citizens peace of mind? Easy: Implementing, transparently and by design, all the policies that protect them mandated by existing regulations. Isn’t that what we do for pretty much anything else?
 
-Now, taking the challenge one step further, could we turn the above into a pledge, a Digital Hippocratic Oath of sorts? Something along the lines of:\
-
+Now, taking the challenge one step further, could we turn the above into a pledge, a Digital Hippocratic Oath of sorts? Something along the lines of:<br>
 
 > _I swear to fulfill, to the best of my ability and judgment, this covenant:_
 >
-> _I will respect my fellow citizens, for their problems and data, which is them in essence, are not disclosed to me that the world may know. Most especially must I tread with care in matters of life and death. If it is given me to save a digital twin, all thanks. But it may also be within my power to erase a digital twin; this awesome responsibility must be faced with great humbleness and awareness of my own technical prowess. Above all, I must not play at Digital God._\
+> _I will respect my fellow citizens, for their problems and data, which is them in essence, are not disclosed to me that the world may know. Most especially must I tread with care in matters of life and death. If it is given me to save a digital twin, all thanks. But it may also be within my power to erase a digital twin; this awesome responsibility must be faced with great humbleness and awareness of my own technical prowess. Above all, I must not play at Digital God._<br>
 >
+> _I will remember that I do not treat a dataset, a schema, but a citizen and their authentic digital twins, whose improper manipulation may affect the citizen’s family’s safety and economic stability. My responsibility includes these related problems, if I am to care adequately for people’s data._<br>
 >
-> _I will remember that I do not treat a dataset, a schema, but a citizen and their authentic digital twins, whose improper manipulation may affect the citizen’s family’s safety and economic stability. My responsibility includes these related problems, if I am to care adequately for people’s data._\
->
->
-> _I will strive to design architectures and to implement technology that embeds all existing protections whenever I can, for prevention is preferable to cure._\
->
+> _I will strive to design architectures and to implement technology that embeds all existing protections whenever I can, for prevention is preferable to cure._<br>
 >
 > _I will remember that I remain a member of society, with special obligations to all my fellow human beings, those with access to technology and those who don’t._
 >

@@ -20,13 +20,11 @@ Review of Personal Data Protection Act 2010 (ACT 709)
 
 This document is addressed to the Data Protection Commissioner of Jabatan Perlindungan Data Peribadi (JPDP), who has invited the public for a consultation on the current PDPA Review process (2020).
 
-\
-
+<br>
 
 The IO Foundation (TIOF), is a global nonprofit advocating for data-centric Digital Rights, with a strong focus on the open infrastructures to observe them by design.
 
-\
-
+<br>
 
 This document is a collection of comments over the document&#x20;
 
@@ -34,8 +32,7 @@ This document is a collection of comments over the document&#x20;
 
 that we hope will be taken into consideration by the PDP Commissioner.
 
-\
-
+<br>
 
 Ultimately, the objectives of PDPA would be to:
 
@@ -44,8 +41,7 @@ Ultimately, the objectives of PDPA would be to:
 * Comply with international standards in Data Protection, fostering protection for Malaysian citizens beyond its application coverage.&#x20;
 * Enact provisions for policies as well as indicate the necessary technical standards to observe them by design and this in a transparent manner for all parties involved (Data Subjects, Data Users and Data Processors alike).
 
-\
-
+<br>
 
 ## General notes and comments
 
@@ -55,8 +51,7 @@ The notes and comments here described aim at providing context to some of the Su
 
 While Data Subject, Data User and Data Processor are widely accepted and used terms, it would be important to point out that “User” has a very different interpretation outside of Data Protection Laws (DLPs) legislation and thus can easily create confusion and misinterpretation among those who should be protected by said regulation. DPLs expect citizens (commonly referred as Users) to understand complex issues and make consequence-full decisions out of it. That being the case, the industry and regulators should adopt more user-friendly terminology.
 
-\
-
+<br>
 
 ### On limitations of technology \[C2]
 
@@ -76,8 +71,7 @@ One stakeholder that has traditionally been left aside from their direct implica
 
 Programmers are Data Subjects and work for/as Data Users and/or Data Processors. Their proper formation during their academic period is crucial to ensure that they implement platforms that are observant of due protections by design.
 
-\
-
+<br>
 
 ### About licensing \[C4]
 
@@ -120,8 +114,7 @@ It is going to be critical for PDPA to establish a clear list of Data Points for
 
 @@@PENDING
 
-\
-
+<br>
 
 ## Principles
 
@@ -147,23 +140,19 @@ The UN Guiding Principles on Business and Human Rights (BHR) are structured arou
 * Pillar II: The Corporate responsibility to respect
 * Pillar III: Access to Remedy
 
-\
-
+<br>
 
 From a proactive perspective on the use of technology (and therefore data protection), the objective should always be to avoid the occurrence of grievances, in turn minimizing the need for any Remedy along the use of technological products and services.
 
-\
-
+<br>
 
 End Remedy represents the embodiment of the proactive planification, architecture and implementation of all necessary mechanisms, both in policy and technology, to avoid grievances to ever happen during the use of a product or a service, in turn minimizing the need for legal actions. In the context of PDPA, it implies the design of policies that protect Data Subjects and the implementation of such provisions in a transparent, trustworthy and safe manner where legal remedies, while defined, are employed as a safety net.
 
-\
-
+<br>
 
 Note: Instilling this approach to the relevant stakeholders, namely in this case programmers (be it as Data Users or Data Processors), is a critical step to ensure that End Remedy becomes an integral part of the process.
 
-\
-
+<br>
 
 ##
 
@@ -175,8 +164,7 @@ It is observed that the regulation keeps focusing only on Policy and not on the 
 
 Public consumption software (and by extension the manipulation of Data Subjects’s data) appears to be one of the few (if not the only) industries lacking checks and balances and proper certification schemes.
 
-\
-
+<br>
 
 Recommendations
 
@@ -192,8 +180,7 @@ We encourage the PDP Commissioner
 
 The text indicates that prior consultations have been had with a number of stakeholders, not explicitly mentioning civil society organizations (CSOs). It is important to emphasize that CSOs play a crucial role in ensuring that regulations are in accordance with international standards, both in the policy and tech perspectives.
 
-\
-
+<br>
 
 Recommendations
 
@@ -203,8 +190,7 @@ We encourage the PDP Commissioner
 
 The text also indicates “taking into consideration the emerging issues” yet doesn’t include the list of said “emerging issues”, which would have been a productive indicator of the matters the PDP Commissioner wishes to focus on. Stakeholders could deepen on these issues, benefitting the overall conversation and providing the Commissioner with richer feedback. Moreover, the consultation itself focuses on improvement suggestions without revealing how the new proposed provisions will be formulated.
 
-\
-
+<br>
 
 Recommendations
 
@@ -232,8 +218,7 @@ This provision was certainly needed from the onset. Any obligations attaining Da
 
 The doubt remains as to which functions would “appointed” Data Processors serve as PDPA, in its current form, is only focused on commercial transactions.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -258,8 +243,7 @@ Following the above, it is critical to consider the following aspects:
 
 The questions posed above reinforce the need to look at data protection from a more holistic approach (policy + tech).
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -275,13 +259,11 @@ We encourage the PDP Commissioner
 
 The language employed in this suggestion seems to imply that it would only be applicable over Data Users, exempting Data Processors while same duties and obligations should apply to both.
 
-\
-
+<br>
 
 On the other hand, cost will be an issue for smaller organizations as it has been observed in many other jurisdictions, effectively creating a disadvantage for startups that won’t be able to compete with well-funded, fully established Data Users.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -291,8 +273,7 @@ We encourage the PDP Commissioner
 
 We fully support the existence of a Data Protection Officer from a conceptual point of view although implemented differently (see below).
 
-\
-
+<br>
 
 Concerning the elements to be considered:
 
@@ -318,8 +299,7 @@ None.
 
 In general, data breaches should be notified to both the PDP Commissioner and also the affected Data Subjects. It is hardly acceptable that citizens, who are ultimately the most affected by the breach, wouldn’t be informed on the spot so that they can take measures to protect themselves against the leaked information. This is extremely relevant in data points such as passwords, private keys and other means of identification that can be used for digital impersonation.
 
-\
-
+<br>
 
 It is important to consider that “Remedy” is a last resort solution. Instead, and this is especially true in technology, a proactive mindset is to be instilled in all parties.
 
@@ -341,8 +321,7 @@ This suggestion revolves around the concept of consent, which is very disputed i
 
 TIOF defends the position that Data Subjects do own their data, following the I am my data principle [\[P1\]](https://docs.google.com/document/d/1I7pmRJB5jNF3rT4tr-CH9kvrJpQ9enKhXAgVjirzmHU/edit#bookmark=id.qds08qerj3kd). On the controversy that allowing data ownership leads to allowing the merchandising of personal data, we propose that this not need be the case and that effective legal and technical measures can and should be set in place for this control.
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -350,13 +329,11 @@ In this context, we would like to request the PDP Commissioner to reflect and sh
 2. How can consent be given if the Data Subject is not the legal owner of the data?
 3. What stops Data Users or Data Processors from appropriating data from Data Subjects if they are not the legal owners?
 
-\
-
+<br>
 
 The text also fails to mention one key element of consent: the understanding from the Data Subject of what will said consent entail. The average Data Subject has never read PDPA, which is still a vague concept even for many Data Users and Data Processors.
 
-\
-
+<br>
 
 c
 
@@ -364,8 +341,7 @@ c
 2. Are there any capacity building and awareness campaigns envisioned in the months after the enactment of the new PDPA?
 
 \
-\
-
+<br>
 
 Finally, the text mentions “sensitive personal data”, which to this date remains a non comprehensive list of Data Points. This creates a lot of uncertainty and enables all sorts of potential grievances, which is something to avoid following the End Remedy principle [\[P3\]](https://docs.google.com/document/d/1I7pmRJB5jNF3rT4tr-CH9kvrJpQ9enKhXAgVjirzmHU/edit#bookmark=id.h7a1gucz7a2r).
 
@@ -373,25 +349,21 @@ Finally, the text mentions “sensitive personal data”, which to this date rem
 
 PDPA (and all other Data Protection Laws) operates from the perspective that Data Subjects must understand its provisions and this is seldom ever the case. It is also one of the few (if only?) laws that expects to be fully understood so that daily decisions, in this case consent, on data are well informed.
 
-\
-
+<br>
 
 Taking a few other examples, very few citizens are informed of the Food and Hygiene regulations yet assume that proper checks and balances are done to ensure their food is safe for consumption. Similarly, very few citizens are aware of the technical requirements of highways; their usage requires, in turn, for citizens to pass an examination. Data protection laws expect the former without considering the latter.
 
-\
-
+<br>
 
 Assuming that data is a subject matter that will attract citizens into reading, understanding and learning PDPA is not a realistic expectation.
 
 Instead, other measures should be implemented such as a national cloud ecosystem [\[C7\]](https://docs.google.com/document/d/1I7pmRJB5jNF3rT4tr-CH9kvrJpQ9enKhXAgVjirzmHU/edit#bookmark=id.vy1w9uv85pzi) to ensure PDPA observance.
 
-\
-
+<br>
 
 Default consent: Data Subjects don’t care and/or understand the concept of consent. This provision would open the flood gates to data abuse. To illustrate one equivalent situation, one does not “default consent” to let a stranger enter their house; instead, access is granted in a case by case policy. The same must apply for consent over one’s data.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -405,8 +377,7 @@ We encourage the PDP Commissioner
 
 Producing visual aids for ToUs is a first good step towards awareness. One step beyond would be to categorize such elements (for instance 3rd Party sharing) and turn them into personal settings that devices should implement by law. This would allow users to filter, in a more user-friendly manner, the services Data Subjects are provided in their digital interactions.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -421,13 +392,11 @@ We encourage the PDP Commissioner
 
 The text makes some concerning assumptions. Should a Data Subject’s data really be a commodity considered in FTAs? It is relevant to mention that the I am my Data principle [\[P1\]](https://docs.google.com/document/d/1I7pmRJB5jNF3rT4tr-CH9kvrJpQ9enKhXAgVjirzmHU/edit#bookmark=id.qds08qerj3kd) effectively turns “Data transfers” into a situation akin to “Data Trafficking”.
 
-\
-
+<br>
 
 The text also fails to explain the reasons as to why the Whitelist has not been implemented so far. These are necessary to properly evaluate the question posed.
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -441,8 +410,7 @@ There is no reason why keeping the Whitelist provision is a bad idea. It’s bet
 
 On the other hand, since PDPA has no extra territorial scope, transferring data outside of Malaysia’s jurisdiction is incredibly dangerous.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -459,13 +427,11 @@ None.
 
 The suggestion only mentions Data Users while Data Processors are just as important.&#x20;
 
-\
-
+<br>
 
 On the subject of Privacy by Design (PbD), a number of doubts arise, especially on the scope and the actual implementation of such solutions. This is especially relevant when considering [re-identification strategies](https://docs.google.com/document/d/1I7pmRJB5jNF3rT4tr-CH9kvrJpQ9enKhXAgVjirzmHU/edit#bookmark=id.4avkixfm3jhq).
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -489,13 +455,11 @@ Privacy by Design is a concept oriented at protecting Data Subjects from a numbe
 
 It is however not possible to make an actual definition of Digital Rights without first establishing a clear definition of Digital Harms. There is currently no worldwide consensus on this subject.
 
-\
-
+<br>
 
 Finally, it is relevant to point out that while PbD is a method to observe and protect Digital Rights, it gets superseded by considering the whole subject of data protection as a whole: all provisions and all technical implementations should be guided by the set of Rights that Data Subjects are entitled with, not only the Right to Privacy.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -512,14 +476,12 @@ It is also as relevant to mention that the stress effect over citizens/users is 
 
 In layman terms, default Opt-in is the equivalent of having a parade of salespersons right by the user's doormat.
 
-\
-
+<br>
 
 The text also mentions  "the right of an individual", without providing more context. A more precise definition would greatly help the conversation as the phasing raises legitimate concerns on the mentioned “balance”. There is in fact no balance to be found: Rights are to be protected and observed at all times, no exceptions.
 
 \
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -552,18 +514,15 @@ In turn, any 3rd party should disclose which other 3rd Parties are equally given
 
 All these parties are to be considered equally accountable under the provisions of PDPA.
 
-\
-
+<br>
 
 The enormous issues and enforcement complications this model implies is reduced by moving into a national cloud and vendors coming over the country for operations.
 
-\
-
+<br>
 
 Regardless, any such 3rd party sharings should be clearly specified to the Data Subject. Methods such as Consent Commons are encouraged.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -575,8 +534,7 @@ We encourage the PDP Commissioner
 
 Ideally, Data Subjects should be fully informed about the full cycle of usage of their data (from acquisition to disposal of their data, along to all sharing episodes and processing of it) while retaining their agency at all times. The sheer amount of data this represents is much too vast to expect that any Data Subject will be able to exercise their rights properly.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -593,8 +551,7 @@ This has always been an identified problem that has created neglect by Data Subj
 
 **Comments and recommendations on the Points to be considered**
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -617,23 +574,19 @@ Most of these devices are manufactured abroad and, by design, send data outside 
 
 There is also the distinction to be made between an IoT device purchased by a Data Subject that may be extracting data from other Data Subjects without their knowledge and/or consent.&#x20;
 
-\
-
+<br>
 
 Moreover, we must remember that protecting data in transit is just as crucial.
 
-\
-
+<br>
 
 It is interesting to note that the text seems to be a recognition of the I Am My Data [\[P1](https://docs.google.com/document/d/1I7pmRJB5jNF3rT4tr-CH9kvrJpQ9enKhXAgVjirzmHU/edit#bookmark=id.qds08qerj3kd).
 
-\
-
+<br>
 
 A part of the text is not clear and, by virtue of a possible misinterpretation, could suggest that business interests are above people’s rights.
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -645,8 +598,7 @@ In this context, we would like to request the PDP Commissioner to reflect and sh
 
 The same protections have been mentioned in past suggestions for this problem.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -667,13 +619,11 @@ This has hardly anything to do with FTAs and reinforces the argument that Malays
 
 This will be a necessary step if Malaysia wishes to comply with international standards of protection. It is also a mandatory requirement to international treaties such as C108+
 
-\
-
+<br>
 
 Moreover, if Malaysia wishes that its Data Subjects' data is stored and processed in a compliant way (under the provisions of PDPA and with the protection of principles such as PbD), how could it possibly gain foreign respect and trust if PDPA does not provide the same levels of protection? This imbalance could cause certain countries not allowing the transfer of their sovereign data to Malaysian Data Users and Data Processors. Instead, a much more conducive scenario would be an increasing alignment in equally protective regions/territories where data flows would be protected by the same Rights and Duties.
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -683,8 +633,7 @@ In this context, we would like to request the PDP Commissioner to reflect and sh
 
 Making all potential Data Users and Data Processors accountable and to ensure that they make legal use of the Data Subjects’s data should be a priority of all DPLs.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -694,8 +643,7 @@ We encourage the PDP Commissioner
 
 None.
 
-\
-
+<br>
 
 **13) The exchange of personal data for Data Users with an entity located outside of Malaysia**
 
@@ -703,13 +651,11 @@ None.
 
 In the text, the word "exchange" creates the impression that personal data is considered a commodity, which is a very worrying idea.
 
-\
-
+<br>
 
 The main consideration to be had is which are the jurisdictions where the data may be transferred to. Allowing just about any transfer to a territory with a DPL with poor protective provisions would render Malaysian PDPA virtually unenforceable. Furthermore, should this be possible, we must consider the scenario by which companies with enough resources could create entities on such territories to bypass any effective protection derived from PDPA.&#x20;
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -717,8 +663,7 @@ In this context, we would like to request the PDP Commissioner to reflect and sh
 
 **Comments and recommendations on the Points to be considered**
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -740,8 +685,7 @@ This suggestion makes sense and should, in fact, be extended to all publicly ava
 
 There must be a recognition of the several roles a citizen plays, which is represented by different data personas, in turn having their own contact channels. Public information, while protected against abuse, should still be protected by PDPA yet treated in its liability differently.
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -800,8 +744,7 @@ None.
 
 The text doesn’t describe the list of non-commercial transactions that are to be considered. This would be necessary for a more informed conversation.
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
@@ -833,29 +776,24 @@ None.
 
 **General comments on the suggestion**
 
-\
-
+<br>
 
 In this context, we would like to request the PDP Commissioner to reflect and share its views on the following:
 
 1. What is the definition of “online” in the views of the PDP Commissioner?
 
-\
-
+<br>
 
 **Comments and recommendations on the Points to be considered**
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
 1. To not consider only “online” channels but rather ANY communication channel (SMS, printed, automated voice calls, etc)&#x20;
-2. \
+2. <br>
 
-
-\
-
+<br>
 
 **Further comments and recommendations**
 
@@ -871,8 +809,7 @@ Any Opt-in should be logged properly.&#x20;
 
 **Comments and recommendations on the Points to be considered**
 
-\
-
+<br>
 
 We encourage the PDP Commissioner
 
@@ -897,8 +834,7 @@ None.
 
 None.
 
-\
-
+<br>
 
 ## Conclusions
 
@@ -906,18 +842,15 @@ The current PDPA revision is a step forward into strengthening Malayasia’s PDP
 
 Further efforts are hoped to make it more compliant with international standards, hopefully to the extent of enabling Malaysia to subscribe to international treaties such as Convention 108+ from the European Council.
 
-\
-
+<br>
 
 The IO Foundation would also want to stress the importance of rethinking some of the inherited concepts on data that we keep dragging for so many decades and that are a hindrance towards a safe, transparent and trustworthy protection of Data Subjects.
 
-\
-
+<br>
 
 It is going to become increasingly critical to establish strict Data Points schemas for compliance, to recognize the intimate (and non severable) connection between Data Subjects and their data, to create a national cloud infrastructure to protect that data and to facilitate all stakeholders tools to be able to use it safely.
 
-\
-
+<br>
 
 These are subjects that will spark a lot of conversation in the years to come and we invite the PDP Commissioner to be part of them.
 
@@ -935,29 +868,25 @@ Analog Hole
 
 [https://en.wikipedia.org/wiki/Analog\_hole](https://en.wikipedia.org/wiki/Analog_hole)
 
-\
-
+<br>
 
 RFC 8280 - Research into Human Rights Protocol Considerations
 
 [https://trac.tools.ietf.org/html/rfc8280](https://trac.tools.ietf.org/html/rfc8280)
 
-\
-
+<br>
 
 The Contract for the Web
 
 https://contractfortheweb.org/
 
-\
-
+<br>
 
 Me2B Alliance
 
 [https://www.me2balliance.org/](https://www.me2balliance.org/)
 
-\
-
+<br>
 
 The Data Transfer Project (DTP)
 
@@ -965,29 +894,25 @@ The Data Transfer Project (DTP)
 
 [https://datatransferproject.dev/](https://datatransferproject.dev/)
 
-\
-
+<br>
 
 Estimating the success of re-identifications in incomplete datasets using generative models
 
 [https://www.nature.com/articles/s41467-019-10933-3](https://www.nature.com/articles/s41467-019-10933-3)
 
-\
-
+<br>
 
 Consent Commons
 
 [https://consentcommons.com/](https://consentcommons.com/)
 
-\
-
+<br>
 
 Solid
 
 https://solid.inrupt.com/
 
-\
-
+<br>
 
 DataSwift
 
@@ -997,4 +922,4 @@ https://dataswift.io/
 
 Jean F. Queralt - Founder & CEO, The IO Foundation
 
-\
+<br>
