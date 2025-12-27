@@ -46,7 +46,11 @@ So yes, technologists can care and they indeed care about citizens and the impac
 
 ### Applicable precedents <a href="#b28599de-cb77-4316-b704-fef9dabe41c4" id="b28599de-cb77-4316-b704-fef9dabe41c4"></a>
 
-Back in the 80s & 90s, with the advent of personal computing, we witnessed the rise and might of technology magazines. Hundreds of publications came to life in an absolutely thriving business. Here’s a quiz for you: _Was it content creators or journalists who learned about technology… or was it technologists who learned how to write?_ Of course the latter; by. the. buckets.
+Back in the 80s & 90s, with the advent of personal computing, we witnessed the rise and might of technology magazines. Hundreds of publications came to life in an absolutely thriving business. Here’s a quiz for you: _Was it content creators or journalists who learned about technology… or was it technologists who learned how to write?_
+
+Of course the latter.
+
+`by. the. buckets.`
 
 Civil society needs to stimulate a similar diaspora, with technologists either joining existing NGOs, creating their own Tech NGOs or at an individual level. At The IO Foundation, we’ve been asking ourselves what is failing and how to instigate it. So far, we have identified the following major points of friction:
 
