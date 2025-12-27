@@ -13,7 +13,7 @@ coverY: 0
 
 > “Who is the Oracle? She’s the glitch in the matrix. What is her archetype? She represents civil society.”
 >
-> **Kiu Jiayaw (paraphrase)**
+> **Kiu Jiayaw (paraphrased)**
 
 ### Strange contradictions <a href="#dd5a13f8-bce9-4d2f-a0dc-1a76e736abd3" id="dd5a13f8-bce9-4d2f-a0dc-1a76e736abd3"></a>
 
