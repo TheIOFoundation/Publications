@@ -34,3 +34,13 @@ We apologize for any inconvenience as we ensure that we finalized it in the shor
 THE IO FOUNDATION
 {% endhint %}
 
+
+
+{% hint style="info" %}
+## NEWSLETTER
+
+Subscribe to our newsletter to be updated about open opportunities (internships, fellowships, volunteer calls), upcoming activities, advocacy campaigns and project updates.
+
+<p align="center"><a href="https://short.theiofoundation.org/TIOFRegistrationGeneralNewsletter" class="button primary" data-icon="newspaper">Register to the TIOF Newsletter </a></p>
+{% endhint %}
+
